@@ -1,4 +1,4 @@
-Digital-Ambiance-Node-Red-Touchdesigner
+Node-Red-Touchdesigner
 ======================================
 
 ### About
