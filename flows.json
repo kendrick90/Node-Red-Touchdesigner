@@ -606,7 +606,7 @@
         "group": "",
         "datatype": "buffer",
         "x": 120,
-        "y": 580,
+        "y": 560,
         "wires": [
             [
                 "e009eb2391cf39c1"
@@ -673,7 +673,7 @@
         "name": "",
         "path": "/slider1",
         "metadata": false,
-        "x": 250,
+        "x": 270,
         "y": 560,
         "wires": [
             [
