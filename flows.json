@@ -184,9 +184,9 @@
             "aa3adffc33fc4ff9"
         ],
         "x": 1024,
-        "y": 339,
-        "w": 392,
-        "h": 202
+        "y": 239,
+        "w": 662,
+        "h": 302
     },
     {
         "id": "fc94be3be08d88df",
@@ -809,8 +809,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 1280,
-        "y": 380,
+        "x": 1600,
+        "y": 280,
         "wires": [
             [
                 "dc4ba62de1eecc39"
@@ -2197,6 +2197,8 @@
         "tostatus": false,
         "complete": "true",
         "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
         "x": 1390,
         "y": 520,
         "wires": []
@@ -2818,8 +2820,8 @@
         "z": "1ec86d53fa65b6c6",
         "name": "color",
         "links": [
-            "5bdd6b02.1f2e64",
-            "1083814a.75929f"
+            "1083814a.75929f",
+            "5bdd6b02.1f2e64"
         ],
         "x": 981,
         "y": 520,
